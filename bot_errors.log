@@ -1,0 +1,2 @@
+[2026-05-01 14:01:24.831020] Command 'setup_registro' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-05-01 14:02:17.465323] Command 'painel_registro' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
